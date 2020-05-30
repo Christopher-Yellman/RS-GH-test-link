@@ -14,17 +14,17 @@ knitr::opts_chunk$set(echo = TRUE)
 ## 3 Establish GitHub as the master
 ## 4 Edit the local RStudio branch
 ### 4.1 insert an image of a tree frog
-
 ![frog]("C:\Users\Chris\Desktop\R programming work\RS-GH-test-link\tree_frog_3076.JPG")
-```{r}
 
-```
-## 5 Commit and push changes to GitHub
-## 6 Edit the master on GitHub
-## 7 Commit and push changes to gitHub
-## 8 Pull the master to bring the RStudio branch up to date
-## 9 Merge the branch with the master
-## 10 Keep track of it all with R Markdown
+## 5 Commit and push changes locally, then commit and push to GitHub
+## 6 verify changes have been updated on GitHub
+## 7 Insert a second image
+### 7.1 insert an image of a wild pig
+![wild pig]("C:\Users\Chris\Desktop\R programming work\RS-GH-test-link\small_wild_pig.jpg")
+
+## 8 Again commit and push changes locally, then to GitHub
+## 9 Knit often to test subtle changes in the format of the R Markdown pdf rendering
+## 10 Merge the branch with the master
 ```{r}
 
 ```
