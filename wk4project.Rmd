@@ -1,0 +1,27 @@
+---
+title: "wk4project"
+author: "Christopher-Yellman"
+date: "5/21/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Procedure
+## 1 Start a new project in R
+## 2 Link it to GitHub
+## 3 Establish GitHub as the master
+## 4 Edit the local RStudio branch
+### 4.1 insert an image of a tree frog
+![frog]("C:\Users\Chris\Desktop\R programming work\tree_frog_3076.JPG")
+```{r}
+
+```
+### 4.2 insert an excel table
+## 5 Commit and push changes to GitHub
+## 6 Edit the master on GitHub
+## 7 Commit and push changes to gitHub
+## 8 Pull the master to bring the RStudio branch up to date
+## 9 Merge the branch with the master
+## 10 Keep track of it all with R Markdown
